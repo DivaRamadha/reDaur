@@ -21,7 +21,7 @@ flutter run
 
 ## Previews
 
-<img src="assets/image1.jpeg" width="450">
-<img src="assets/image2.jpeg" width="450">
-<img src="assets/image3.jpeg" width="450">
+<img src="assets/image3.jpeg" width="150">
+<img src="assets/image2.jpeg" width="150">
+<img src="assets/image1.jpeg" width="150">
 
